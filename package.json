@@ -1,0 +1,19 @@
+{
+  "name": "reacttablelibrary",
+  "version": "1.0.0",
+  "description": "test react library table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nafissalabdi/ReactTableLibrary.git"
+  },
+  "author": "nafissa labdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nafissalabdi/ReactTableLibrary/issues"
+  },
+  "homepage": "https://github.com/nafissalabdi/ReactTableLibrary#readme"
+}
